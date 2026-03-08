@@ -22,6 +22,6 @@ This repository is for reporting bugs, requesting features, and providing genera
 
 ## About rfrmd.com
 
-rfrmd.com is a free, ad-free Bible reading tool built to help individuals and families draw closer to God through daily attendance in His word. It includes an ESV Bible reader, the M'Cheyne daily reading plan, a Psalm prayer guide, and a growing library of Reformed resources grounded in the Westminster Standards.
+rfrmd.com is a free, ad-free Bible reading tool built to help individuals and families draw closer to God through daily attendance in His word. It includes an online ESV, and offline ASV & KJV Bible reader, the M'Cheyne daily reading plan, a Psalm prayer guide, and a growing library of Reformed resources grounded in the Westminster Standards.
 
 All tools are free to use with no account required.
